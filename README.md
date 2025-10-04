@@ -159,5 +159,6 @@ docker run -d -p 80:80 narwadesonali7/portfolio-sonali:latest
 - `docker commit`, `docker tag`, `docker push` → save & publish images  
 
 ---
+![ec2-user](./img.png)
 
  With this setup, my portfolio is no longer tied to one machine . it can run on **any server** that supports Docker!
